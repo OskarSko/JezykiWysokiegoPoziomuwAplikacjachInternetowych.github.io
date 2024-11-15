@@ -1,7 +1,7 @@
 {
   "name": "lab7",
   "version": "0.1.0",
-  "homepage": "https://oskarsko.github.io/JezykiWysokiegoPoziomuwAplikacjachInternetowych.github.io/",
+  "homepage": "https://oskarsko.github.io/JezykiWysokiegoPoziomuwAplikacjachInternetowych.github.io/React2/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
