@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JezykiWysokiegoPoziomuwAplikacjachInternetowych.github.io/static/css/main.5786cc1f.css",
+    "main.js": "/JezykiWysokiegoPoziomuwAplikacjachInternetowych.github.io/static/js/main.d0c01135.js",
+    "static/js/453.faafeb89.chunk.js": "/JezykiWysokiegoPoziomuwAplikacjachInternetowych.github.io/static/js/453.faafeb89.chunk.js",
+    "index.html": "/JezykiWysokiegoPoziomuwAplikacjachInternetowych.github.io/index.html",
+    "main.5786cc1f.css.map": "/JezykiWysokiegoPoziomuwAplikacjachInternetowych.github.io/static/css/main.5786cc1f.css.map",
+    "main.d0c01135.js.map": "/JezykiWysokiegoPoziomuwAplikacjachInternetowych.github.io/static/js/main.d0c01135.js.map",
+    "453.faafeb89.chunk.js.map": "/JezykiWysokiegoPoziomuwAplikacjachInternetowych.github.io/static/js/453.faafeb89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5786cc1f.css",
+    "static/js/main.d0c01135.js"
+  ]
+}
