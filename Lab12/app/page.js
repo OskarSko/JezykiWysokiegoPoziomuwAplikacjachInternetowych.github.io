@@ -1,7 +1,7 @@
 import styles from '../styles/page.module.css';
 import ImageSlideshow from '../components/images/ImageSlideshow';
 import MainHeader from '../components/MainHeader'; // Import komponentu MainHeader
-
+import Image from 'next/image';
 export default function Home() {
   return (
     <div className={styles.page}>
@@ -10,7 +10,7 @@ export default function Home() {
 
       <header className={styles.header}>
         <div className={styles.logo}>
-          <img src="/images/logo.png" alt="NextLevel Food Logo" />
+        <Image src="/images/logo.png" alt="Logo" width={50} height={50} />
           <h1>NextLevel Food</h1>
         </div>
       </header>
