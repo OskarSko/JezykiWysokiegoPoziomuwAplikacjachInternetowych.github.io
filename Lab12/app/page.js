@@ -28,11 +28,11 @@ export default function Home() {
             <h1>NextLevel Food for NextLevel Foodies</h1>
             <p>Taste & share food from all over the world.</p>
             <div className={styles.cta}>
-              <Link href="/community" className={styles.buttonSecondary}>
-                Join the Community
+              <Link href="/community" passHref>
+                <a className={styles.buttonSecondary}>Join the Community</a>
               </Link>
-              <Link href="/meals" className={styles.buttonPrimary}>
-                Explore Meals
+              <Link href="/meals" passHref>
+                <a className={styles.buttonPrimary}>Explore Meals</a>
               </Link>
             </div>
           </div>
