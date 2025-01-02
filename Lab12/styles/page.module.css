@@ -1,0 +1,89 @@
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .heroContent {
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    align-items: center;
+  }
+  
+  .slideshowContainer {
+    flex: 1;
+    max-width: 50%; /* Slideshow zajmuje 50% szerokości */
+    margin-right: 20px;
+  }
+  
+  .textContainer {
+    flex: 1;
+    max-width: 50%; /* Tekst zajmuje 50% szerokości */
+  }
+  
+  .textContainer h1 {
+    font-size: 36px;
+    color: #fca311;
+    margin-bottom: 20px;
+  }
+  
+  .textContainer p {
+    font-size: 18px;
+    color: #ccc;
+    margin-bottom: 20px;
+  }
+  
+  .cta {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .buttonPrimary {
+    background: #f77f00;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .buttonPrimary:hover {
+    background: #e76f00;
+  }
+  
+  .buttonSecondary {
+    background: transparent;
+    color: #fca311;
+    padding: 10px 20px;
+    border: 2px solid #fca311;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .buttonSecondary:hover {
+    background: #fca311;
+    color: #222;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Odstęp między logo a tekstem */
+  }
+  
+  .logo img {
+    height: 40px; /* Zmniejsz wysokość logo */
+    width: auto; /* Automatyczne dopasowanie szerokości proporcjonalnie */
+  }
+  
+  .logo h1 {
+    font-size: 20px; /* Dostosuj rozmiar tekstu */
+    color: #fff;
+    margin: 0; /* Usuń ewentualne domyślne marginesy */
+  }
+  
